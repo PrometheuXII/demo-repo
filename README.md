@@ -2,6 +2,10 @@
 Demo practice for github repo
 Yess!
 
- ##Subheader 
+ # #Subheader 
 
  Watched tutorial on FreeCodeCamp on YouTube!
+
+ # # Local Development
+
+ Open index.html in browser.
